@@ -10,8 +10,7 @@
 
 ### 使用
 
-
-![示例](https://sidfate.oss-cn-hangzhou.aliyuncs.com/uPic/DB5RSz.gif)
+![示例](https://sidfate.oss-cn-hangzhou.aliyuncs.com/uPic/cFbHX9.gif)
 
 ### 目录
 
@@ -32,11 +31,12 @@
 
 表情包数据来源：
 
+* [ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
 * [数据库](https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/chinesebqb_github.json)
-* [github项目地址](https://github.com/zhaoolee/ChineseBQB)
+
 
 ### 关于
 
 | 作者 | 邮箱  | 掘金 |
 | :----- | :----: | ----: |
-| Sidfate | sidfate@163.com | |
+| Sidfate | sidfate@163.com | [掘金主页](https://juejin.im/user/3368559357476397) |
